@@ -1,2 +1,2 @@
-# chainer-examples
+# Chainer-examples
 Chainer tutorials and examples
